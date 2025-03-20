@@ -14,7 +14,6 @@ A modern, minimalistic journaling app with AI integration designed to provide us
 - **Frontend**: React Native, Expo
 - **Backend**: Firebase Authentication, Firestore, Google Cloud Functions
 - **AI Integration**: OpenAI API -> this will be handled in Google Cloud Function, with FE making requests to the function which will relay the request to OpenAI
-- **UI Library**: React Native Paper (hybrid approach)
 
 ## Features and Functionalities
 
